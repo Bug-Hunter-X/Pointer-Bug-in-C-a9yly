@@ -1,0 +1,1 @@
+This repository contains a simple C program with a common pointer-related bug. The program attempts to modify a variable through a pointer, but it doesn't quite work as expected. The solution demonstrates how to correctly use pointers to modify variables.
